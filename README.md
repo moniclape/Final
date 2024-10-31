@@ -38,3 +38,20 @@ Task 9️⃣: Document the execution of each task in a README file and attach al
 Task 🔟: Create a pull request to merge the “feature” branch with the “main” branch and add a description of the changes. Take a screenshot of the created pull request.
 
 
+
+
+
+
+
+
+
+
+задание1 - я добавило student_name из main в Readme
+2 - я создал графиk, запушил, и оставило ссылку в task2.txt
+3 - сделал merge 2 и 3, позже я написал rebase, в скриншотах есть
+4 - commit questions
+5 - git checkout -b dev-feature из main потом закомиттилл одно изменение
+6 - написал git branch -d ил -D потом имя ветки (two, three)
+7 - в скринах есть, я разрешил конфликты выюрав 3 вариант и закоммитил merge
+8 - переходил в ветки которые нужно переименовать, позже git branch -m новое имя
+9 - сделал
